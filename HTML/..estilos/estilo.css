@@ -3,6 +3,33 @@
 }
 .header {
     border: 0px;
-    border-radius: 25px;
     background-color: #55ff05;
+    padding: 5px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: start;
+}
+.YT {
+    text-align: center;
+    background-color: aqua;
+    padding-top: 13px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+.sobreock {
+    text-align: center;
+    background-color: aqua;
+    padding-top: 13px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+.cuioso {
+    text-align: center;
+    background-color: aqua;
+    padding-top: 13px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
 }
