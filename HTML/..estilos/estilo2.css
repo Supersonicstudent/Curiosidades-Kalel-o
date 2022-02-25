@@ -1,3 +1,9 @@
-body{
-    background: linear-gradient(50deg, aqua, blue);
+html{
+    background: linear-gradient(90deg, aqua, blue);
+}
+body {
+    background-color: aliceblue;
+    margin: 50px;
+    padding: 100px;
+    border-radius: 45px;
 }
