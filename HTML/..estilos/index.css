@@ -37,3 +37,6 @@
     display: grid;
     grid-template: 400px 400px 400px / 400px 400px 400px;
 }
+.card {
+    padding: 50px;
+}

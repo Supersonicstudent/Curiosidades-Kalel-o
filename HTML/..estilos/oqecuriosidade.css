@@ -1,0 +1,10 @@
+html{
+    background: linear-gradient(90deg, aqua, blue);
+    padding: 50px;
+}
+body {
+    background-color: aliceblue;
+    margin: 50px;
+    padding: 100px;
+    border-radius: 45px;
+}
