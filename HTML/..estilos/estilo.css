@@ -33,4 +33,7 @@
     padding-bottom: 10px;
     padding-right: 10px;
 }
-
+.cards {
+    display: grid;
+    grid-template: 400px 400px 400px / 400px 400px 400px;
+}
