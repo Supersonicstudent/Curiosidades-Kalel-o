@@ -35,10 +35,13 @@
 }
 .cards {
     display: grid;
-    grid-template: 350px 350px 350px / 350px 350px 350px;
-    margin: 100px;
+    grid-template: 350px 350px 350px / 345px 345px 345px;
+    padding: 95px;
+    margin: 5px;
+    background-color: cyan;
 }
 .card {
     padding: 50px;
 }
+
 
