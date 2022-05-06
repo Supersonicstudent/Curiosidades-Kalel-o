@@ -11,3 +11,6 @@ body {
 img, iframe {
     margin: 50px;
 }
+h1, h5 {
+    text-align: justify;
+}
